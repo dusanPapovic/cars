@@ -133,5 +133,6 @@
 -->
 
 <h2>
-Welcome to Cars Project      
-            </h2>
+Welcome to Cars Project  </h2>
+            <p>Welcome {{$name}}</p>
+            <p> I'm {{$age}} years old  </p>
