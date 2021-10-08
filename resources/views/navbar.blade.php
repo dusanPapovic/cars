@@ -1,12 +1,12 @@
-<nav class="navbar navbar-light bg-light">
+<nav class="navbar navbar-dark bg-dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="/cars">
+         <div class="float-left">
+           <a class="navbar-brand"  href="/cars">
             Cars
-        </a>
-    </div>
-    <div class="container-fluid">
-        <a class="navbar-brand" href="/about">
+           </a>
+           <a class="navbar-brand" href="/about">
             About
-        </a>
+           </a>
+        </div>
     </div>
-</nav>
+</nav> 
